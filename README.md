@@ -15,17 +15,16 @@ The player can control the bellhop which has one main ability, to throw food at 
   - Health:
   - Speed:
   - Primary Weapon:
-    - ![](entities/img/_github_readme/bellhop.png)
-    - Food: This twirling meat is the only way to keep your guests happy
+    - Food: The meat is the only way to keep your guests happy
   - Secondary Weapon:
     - Light: When the players vision is limited, players can turn on the the light for a certain amount of time, to expand the player's vision
 
 ### Monsters
 
-![](entities/img/_github_readme/frankenstein.png)
-- Frankenstein
-  - Health:
-  - Speed:
+![](entities/img/_github_readme/frankenstein.png) | ![](entities/img/_github_readme/ghost.png)
+- Frankenstein | - Ghost
+  - Health: |  - Health:
+  - Speed: |  - Speed: 
   
 ![](entities/img/_github_readme/ghost.png)
 - Ghost
