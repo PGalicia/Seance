@@ -21,10 +21,10 @@ The player can control the bellhop which has one main ability, to throw food at 
 
 ### Monsters
 
-![](entities/img/_github_readme/frankenstein.png) | ![](entities/img/_github_readme/ghost.png)
-- Frankenstein | - Ghost
-  - Health: |  - Health:
-  - Speed: |  - Speed: 
+|![](entities/img/_github_readme/frankenstein.png) | ![](entities/img/_github_readme/ghost.png)|
+|- Frankenstein | - Ghost|
+  |- Health: |  - Health:|
+  |- Speed: |  - Speed: |
   
 ![](entities/img/_github_readme/ghost.png)
 - Ghost
