@@ -15,7 +15,7 @@ The player can control the bellhop which has one main ability, to throw food at 
   - Health:
   - Speed:
   - Primary Weapon:
-    ![](entities/img/_github_readme/bellhop.png | width = 100)
+    ![](entities/img/_github_readme/bellhop.png)
     - Food: This twirling meat is the only way to keep your guests happy
   - Secondary Weapon:
     - Light: When the players vision is limited, players can turn on the the light for a certain amount of time, to expand the player's vision
